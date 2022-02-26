@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "heroku": "^7.59.2",
-    "nodemon": "^2.0.15"
-  }
-}
